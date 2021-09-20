@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baldesamo_Franco_module1_4_5_TRY2", "Baldesamo_Franco_module1_4_5_TRY2.csproj", "{CE6DE117-BC31-432B-B944-A490F9535BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6DE117-BC31-432B-B944-A490F9535BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6DE117-BC31-432B-B944-A490F9535BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6DE117-BC31-432B-B944-A490F9535BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6DE117-BC31-432B-B944-A490F9535BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59BD8D8B-4610-445A-A0DC-9A60532F79AA}
+	EndGlobalSection
+EndGlobal
